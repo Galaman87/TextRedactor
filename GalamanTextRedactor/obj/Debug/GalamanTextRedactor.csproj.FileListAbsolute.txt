@@ -1,0 +1,20 @@
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\bin\Debug\GalamanTextRedactor.exe.config
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\bin\Debug\GalamanTextRedactor.exe
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\bin\Debug\GalamanTextRedactor.pdb
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.Form1.resources
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.Properties.Resources.resources
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.csproj.GenerateResource.cache
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.exe
+c:\users\user\source\repos\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.pdb
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\bin\Debug\GalamanTextRedactor.exe.config
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\bin\Debug\GalamanTextRedactor.exe
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\bin\Debug\GalamanTextRedactor.pdb
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.Form1.resources
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.Properties.Resources.resources
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.exe
+C:\Users\User\Desktop\шаг\домашка нов преп\winforms\Дом 6\GalamanTextRedactor\GalamanTextRedactor\obj\Debug\GalamanTextRedactor.pdb
